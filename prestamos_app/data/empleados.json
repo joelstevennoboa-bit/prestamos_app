@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "nombre": "Joel Ramos",
+        "cedula": "0914192182",
+        "sueldo": 2000.0
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Murillo",
+        "cedula": "0921282299",
+        "sueldo": 900.0
+    }
+]

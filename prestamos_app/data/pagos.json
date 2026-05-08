@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "fecha": "hoy",
+        "valor": 1500.0,
+        "prestamo": {
+            "id": 2
+        }
+    },
+    {
+        "id": 2,
+        "fecha": "hoy",
+        "valor": 2000.0,
+        "prestamo": {
+            "id": 2
+        }
+    }
+]
